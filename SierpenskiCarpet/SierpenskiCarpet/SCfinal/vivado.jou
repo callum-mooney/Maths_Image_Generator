@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Apr 26 02:07:14 2024
+# Process ID: 43396
+# Current directory: C:/Users/Katie/Desktop/SCfinal
+# Command line: vivado.exe -mode batch -source ProjectGeneration.tcl -notrace
+# Log file: C:/Users/Katie/Desktop/SCfinal/vivado.log
+# Journal file: C:/Users/Katie/Desktop/SCfinal\vivado.jou
+#-----------------------------------------------------------
+source ProjectGeneration.tcl -notrace

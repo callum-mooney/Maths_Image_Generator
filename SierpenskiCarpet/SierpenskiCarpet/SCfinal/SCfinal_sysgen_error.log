@@ -1,0 +1,25 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2020.1                 C:/Xilinx1/Vivado/2020.1
+Matlab 9.8.0.1873465 (R2020a) Update 8  C:\Program Files\MATLAB\R2020a
+Vivado 2020.1                           C:/Xilinx1/Vivado/2020.1
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Illegal parameterization: Latency
+     Block: 'SCfinal/Y_2/LimitN2'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'SCfinal/Y_2/LimitN2'
+
+Details:
+Latency is set to a value of 10, but the value must be greater
+than or equal to 18.  With "Test for optimum pipelining"
+selected, the optimum latency value is 18.Either change the
+latency value to the optimum value or de-select the "Test for
+optimum pipelining" check.
+Error occurred during "Rate and Type Error Checking".
+
+--------------------------------------------------------------------------------
